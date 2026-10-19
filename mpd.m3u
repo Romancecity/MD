@@ -228,19 +228,6 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uw
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/NF489yZJ/STABLE-SPORTS1.png",CRICBUZZ 1 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88108f87e67cd151f9519101fc80c467:7f2ef277964796a9fb76afe361e2344c
-https://cbuzz1.starzplayarabia.com/out/v1/f017da8419e0495784291700c11700a5/index.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/tRhBGJvV/STABLE-SPORTS2.png",CRICBUZZ 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=037798d4da2472201e564323244afc49:c8888c4644cef0a5f130afa32d919fc4
-https://cbuzz2.starzplayarabia.com/out/v1/c6320ac38c774e66b60dbf4d0e7d16ab/index.mpd
 
 #EXTINF:-1 group-title="Sports"tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/02/24171333/Eurosport-image.jpg",EuroSport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
